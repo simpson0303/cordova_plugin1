@@ -7,12 +7,12 @@ Cordova plugin background gps track Service With Cordova/Phonegap android applic
 ## Master branch:
  
  ```
-cordova plugin add https://github.com/simpson0303/cordova-plugin-backgroundgpstrack.git
+cordova plugin add https://github.com/simpson0303/cordova_plugin1.git
  ```
 ## local folder:
 
  ``` 
-cordova plugin add cordova-plugin-backgroundgpstrack --searchpath path
+cordova plugin add cordova_plugin1 --searchpath path
 
 ```
 
@@ -46,5 +46,5 @@ cordova plugin add cordova-plugin-backgroundgpstrack --searchpath path
   navigator.gpstrack.stop(function(a){console.log("stop")},function(){console.log("Error")});
   
 ```
-
-<a href="https://www.paypal.me/simpson0303" target="_blank"><img src="https://dl.dropboxusercontent.com/s/r5azqieu9stu0pc/pay-now-button-afme.png?dl=0" alt="Count 0" width="160"/></a>
+simpson0303 0 1
+1 0 LokeshPatel

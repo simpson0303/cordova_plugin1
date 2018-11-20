@@ -9,7 +9,7 @@
 	<keywords>cordova,gpstrack,background gps track</keywords>
 	
 	 <info>Cross platform background gps track plugin for Cordova/PhoneGap</info>
-	 <repo>https://github.com/simpson0303/cordova-plugin-backgroundgpstrack.git</repo>
+	 <repo>https://github.com/simpson0303/cordova_plugin1.git</repo>
 	
 	<js-module src="www/gpsTrackHandlePlugin.js" name="CDVGPSTrack">
 		<clobbers target="navigator.gpstrack"/>
